@@ -1,0 +1,23 @@
+{
+  "name": "electron-achiever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simk395/electron-achiever.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simk395/electron-achiever/issues"
+  },
+  "homepage": "https://github.com/simk395/electron-achiever#readme",
+  "devDependencies": {
+    "electron": "^6.0.1"
+  }
+}
